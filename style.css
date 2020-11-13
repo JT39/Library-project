@@ -84,6 +84,7 @@ form > label {
     align-items: center;
     grid-template-rows: auto;
     border: 1px solid black;
+    box-shadow: 2px 0px 9px #f7b3b3;
     background: rgb(136, 247, 136);
     justify-items: center;
     font-size: 20px;
